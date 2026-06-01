@@ -9,7 +9,7 @@ int main() {
             N = 0; 
         }
         if (N < 3) {
-            printf("O valor inserido é inválido. N deve ser obrigatoriamente maior ou igual a 3.\n\n");
+            printf("O valor inserido é inválido. a matriz deve ser obrigatoriamente maior ou igual a 3.\n\n");
         }
     } while (N < 3);
 
